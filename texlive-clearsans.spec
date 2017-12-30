@@ -5,8 +5,8 @@
 # catalog-license apache2
 # catalog-version undef
 Name:		texlive-clearsans
-Version:	20140409
-Release:	4
+Version:	20170414
+Release:	1
 Summary:	Clear Sans fonts with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/clearsans
