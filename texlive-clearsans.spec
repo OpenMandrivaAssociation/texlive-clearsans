@@ -1,6 +1,6 @@
 Name:		texlive-clearsans
 Version:	64400
-Release:	1
+Release:	2
 Summary:	Clear Sans fonts with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/clearsans
