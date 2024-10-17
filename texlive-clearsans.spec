@@ -3,7 +3,7 @@ Version:	64400
 Release:	2
 Summary:	Clear Sans fonts with LaTeX support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/clearsans
+URL:		https://www.ctan.org/tex-archive/fonts/clearsans
 License:	APACHE2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clearsans.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clearsans.doc.r%{version}.tar.xz
